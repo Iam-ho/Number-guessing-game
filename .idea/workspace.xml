@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92e945af-93a0-49b5-a1e9-58bbdb58a4c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/number-guessing-game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../One-Word-Answer" beforeDir="false" afterPath="$PROJECT_DIR$/../One-Word-Answer" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692037323967</updated>
-      <workItem from="1692037325182" duration="1503000" />
+      <workItem from="1692037325182" duration="2799000" />
     </task>
     <servers />
   </component>
@@ -60,6 +60,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Number_guessing_game$number_guessing_game.coverage" NAME="number-guessing-game Coverage Results" MODIFIED="1692038460585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Number_guessing_game$number_guessing_game.coverage" NAME="number-guessing-game Coverage Results" MODIFIED="1692040234853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
